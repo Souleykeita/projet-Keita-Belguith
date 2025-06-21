@@ -49,7 +49,7 @@ streamlit run main.py
 #-ua.jpg                 Logo
 
 
-### Auteurs ####
+### Auteurs ###
 
 #Souleymane KEITA & Zayneb BELGUITH
 #Master 2 Ingénierie des Données et Évaluation Économétrique
