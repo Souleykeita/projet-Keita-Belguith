@@ -1,0 +1,10 @@
+[project]
+name = "gestionnaire-objectifs-epargne"
+version = "0.1.0"
+description = "Application Streamlit de gestion d'objectifs d'épargne"
+authors = ["Etudiant <etudiant@example.com>"]
+
+dependencies = [
+  "streamlit>=1.20.0",
+  "pandas"
+]
